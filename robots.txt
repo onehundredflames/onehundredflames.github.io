@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://onehundredflames.github.io/onehundredflames_github_io_zp532_10.txt
+Sitemap: https://onehundredflames.github.io/onehundredflames_github_io_zp532_15.txt
+Sitemap: https://onehundredflames.github.io/onehundredflames_github_io_zp532_2.txt
+Sitemap: https://onehundredflames.github.io/onehundredflames_github_io_zp532_24.txt
+Sitemap: https://onehundredflames.github.io/onehundredflames_github_io_zp532_5.txt
